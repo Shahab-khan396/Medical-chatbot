@@ -3,9 +3,13 @@ langchain
 flask
 pypdf
 python-dotenv
-Chromadb
-langchain-pinecone
+langchain-Chromadb
 langchain_community
 langchain_openai
 langchain_experimental
 openrouter
+chromadb
+tiktoken
+openai
+langchain-core
+langchain_experimental
